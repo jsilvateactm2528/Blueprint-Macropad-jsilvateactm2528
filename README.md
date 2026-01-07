@@ -42,6 +42,8 @@ The case was designed to be compact, simple, and functional, with easy access to
 
 <img width="608" height="755" alt="image" src="https://github.com/user-attachments/assets/4aa3d19b-3e7e-4f41-b137-ce2ed9a6230a" />
 
+<img width="570" height="767" alt="image" src="https://github.com/user-attachments/assets/a03a46cb-8c1f-4f62-9968-04464501463c" />
+
 ## Firmware
 
 I used QMK for all of it
