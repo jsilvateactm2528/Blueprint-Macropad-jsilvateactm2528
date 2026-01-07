@@ -11,9 +11,14 @@ It was designed as a personal open-source hardware project.
 ## Features
 
 7 mechanical keys (For macros)
+
 2 EC11 rotary encoder with push button (One change volume and mute and the other rotate to move up or down a list of options on the OLED screen, and press to confirm a choice.)
+
 4 pin 128x32 OLED display (At the moment, I don´t know for sure what options I will have in the display.)
+
 5 SK6812 MINI-E LEDs (Just to illuminate the macropad.)
+
 Seeed Studio XIAO microcontroller
+
 QMK firmware
 
