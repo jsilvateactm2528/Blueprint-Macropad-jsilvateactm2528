@@ -60,7 +60,7 @@ I used QMK for all of it
 * 4x M3x5x4 Heatset inserts
 * 4x M3x16mm screws
 * 9x 1N4148 Diodes.
-*7x SK6812 MINI-E LEDs
+* 7x SK6812 MINI-E LEDs
 * 1x 0.91" 128x32 OLED Display
 * 2x EC11 Rotary Encoder
 * 1x XIAO RP2040
