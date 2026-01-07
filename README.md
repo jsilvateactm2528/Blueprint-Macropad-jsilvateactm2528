@@ -46,6 +46,20 @@ The case was designed to be compact, simple, and functional, with easy access to
 I used QMK for all of it
 
 * One of the rotary encoder changes volume, press to mute and the other move up and down a list of options on the OLED screen and press to select one of the options.
-The 4 keys currently act as macros.
-The OLED will have a list of shortcuts (plan on ading the list via a windows app)
-The leds are blue.
+* The 4 keys currently act as macros.
+* The OLED will have a list of shortcuts (plan on ading the list via a windows app)
+* The leds are blue.
+
+## BOM
+
+* 7x MX-Style switches
+* 7x Keycaps
+* 4x M3x5x4 Heatset inserts
+* 4x M3x16mm screws
+* 9x 1N4148 Diodes.
+*7x SK6812 MINI-E LEDs
+* 1x 0.91" 128x32 OLED Display
+* 2x EC11 Rotary Encoder
+* 1x XIAO RP2040
+* 1x Case (2 printed parts)
+* 1x Custom pcb
