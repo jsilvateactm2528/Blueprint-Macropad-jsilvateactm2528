@@ -11,7 +11,7 @@ It was designed as a personal open-source hardware project.
 ## Features
 
 * 7 mechanical keys (For macros)
-* 2 EC11 rotary encoder with push button (One change volume and mute and the other rotate to move up or down a list of options on the OLED screen, and press to confirm a choice.)
+* 2 EC11 rotary encoder with push button (One change volume and mute and the other rotate to move up and down a list of options on the OLED screen and press to select one of the options.)
 * 4 pin 128x32 OLED display (At the moment, I don´t know for sure what options I will have in the display.)
 * 5 SK6812 MINI-E LEDs (Just to illuminate the macropad.)
 * Seeed Studio XIAO microcontroller
@@ -40,3 +40,12 @@ The case was designed to be compact, simple, and functional, with easy access to
 <img width="577" height="772" alt="image" src="https://github.com/user-attachments/assets/fceff564-6517-48c2-9b11-33034062e8fb" />
 
 <img width="608" height="755" alt="image" src="https://github.com/user-attachments/assets/4aa3d19b-3e7e-4f41-b137-ce2ed9a6230a" />
+
+## Firmware
+
+I used QMK for all of it
+
+* One of the rotary encoder changes volume, press to mute and the other move up and down a list of options on the OLED screen and press to select one of the options.
+The 4 keys currently act as macros.
+The OLED will have a list of shortcuts (plan on ading the list via a windows app)
+The leds are blue.
