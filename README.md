@@ -49,7 +49,7 @@ I used QMK for all of it
 * One of the rotary encoder changes volume, press to mute and the other move up and down a list of options on the OLED screen and press to select one of the options.
 * The 4 keys currently act as macros.
 * The OLED will have a list of shortcuts (plan on ading the list via a windows app)
-* The leds are blue.
+* The LEDs are normally changing between red, blue, green, and yellow.
 
 ## BOM
 
