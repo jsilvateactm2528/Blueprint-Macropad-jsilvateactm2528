@@ -17,3 +17,20 @@ It was designed as a personal open-source hardware project.
 * Seeed Studio XIAO microcontroller
 * QMK firmware
 
+## PCB
+
+I used Kicad and it's a great program
+
+* Shematics
+* Pcb
+* 3d view of the top and botom part of the pcb
+
+<img width="1178" height="707" alt="image" src="https://github.com/user-attachments/assets/32274b74-c929-4cde-8533-a54ae7a354a2" />
+
+<img width="579" height="830" alt="image" src="https://github.com/user-attachments/assets/4d2991fa-13e9-4097-97cc-77ecea1bf746" />
+
+<img width="588" height="789" alt="image" src="https://github.com/user-attachments/assets/ed2a9910-bfbe-4634-91d6-f9252dd7625c" />
+
+<img width="561" height="774" alt="image" src="https://github.com/user-attachments/assets/8abb3605-5887-47d5-9931-c7d08fee4709" />
+
+
