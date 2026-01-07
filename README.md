@@ -33,4 +33,10 @@ I used Kicad and it's a great program
 
 <img width="561" height="774" alt="image" src="https://github.com/user-attachments/assets/8abb3605-5887-47d5-9931-c7d08fee4709" />
 
+## Case
 
+The case was designed to be compact, simple, and functional, with easy access to all components from the top.
+
+<img width="577" height="772" alt="image" src="https://github.com/user-attachments/assets/fceff564-6517-48c2-9b11-33034062e8fb" />
+
+<img width="608" height="755" alt="image" src="https://github.com/user-attachments/assets/4aa3d19b-3e7e-4f41-b137-ce2ed9a6230a" />
