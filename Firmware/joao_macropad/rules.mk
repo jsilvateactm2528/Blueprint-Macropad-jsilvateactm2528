@@ -1,0 +1,11 @@
+# MCU and Bootloader for Seeed Xiao RP2040
+MCU = RP2040
+BOOTLOADER = rp2040
+
+# Enabled Features
+ENCODER_ENABLE = yes
+OLED_ENABLE = yes
+RGBLIGHT_ENABLE = yes
+BOOTMAGIC_ENABLE = yes
+MOUSEKEY_ENABLE = yes
+EXTRAKEY_ENABLE = yes
