@@ -66,3 +66,7 @@ I used QMK for all of it
 * 1x XIAO RP2040
 * 1x Case (2 printed parts)
 * 1x Custom pcb
+
+git add .
+git commit -m "Add README"
+git push
